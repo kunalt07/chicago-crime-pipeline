@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Chicago Crime Data Pipeline — GCP
 
 End-to-end data engineering project built on Google Cloud Platform, processing 
